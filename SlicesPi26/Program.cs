@@ -3,7 +3,7 @@ using SlicesPi26;
 
 Console.WriteLine("Hello, World!");
 
-//PiCalcUI.RunPiCalculation();
-PiCalcUI.RunPiCalculationAsync();
+PiCalcUI.RunPiCalculation();
+//PiCalcUI.RunPiCalculationAsync();
 Console.WriteLine("Done");
 Console.ReadKey();
